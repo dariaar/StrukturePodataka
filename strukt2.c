@@ -20,6 +20,7 @@ int DodajNaKraj(pozicija p);
 int TraziPoPrezimenu(pozicija p);
 pozicija PronadiPrethodni(pozicija p, char* prezime);
 int Izbrisi(pozicija p);
+int OslobodiMemoriju(pozicija p);
 
 int main()
 {
