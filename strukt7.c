@@ -97,7 +97,6 @@ int main(){
 	}
 	OslobodiCvor(stog);
 	OslobodiDirektorij(korijen);
-	//nisam provjerio jeli radi oslobaðanje memorije, debugger mi ne radi :/
 	return EXIT_SUCCESS;
 }
 
