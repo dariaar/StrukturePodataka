@@ -42,15 +42,6 @@ int main(){
 
 	stogHead = StvoriStogElement();
 
-	korijen = Unos(korijen, 5);
-	korijen = Unos(korijen, 10);
-	korijen = Unos(korijen, 2);
-	korijen = Unos(korijen, 9);
-	korijen = Unos(korijen, 3);
-	korijen = Unos(korijen, 12);
-	korijen = Unos(korijen, 1);
-
-
 
 	while(isActive){
 		printf("\nOdaberi operaciju binarnog stabla:\n");
